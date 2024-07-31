@@ -1,0 +1,23 @@
+
+main{
+     background-color: rgb (252, 252, 252);
+     PADDING: 30px;
+
+
+}
+body{
+   color: rgb(0, 0, 0);
+margin: 1cm;
+
+}
+.lema{
+     text-align: center;
+     font-size: 32px;
+     font-style: italic;
+
+}
+•autor{
+      text-align: right;
+      font-size: 16px;
+
+}
